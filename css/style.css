@@ -5,6 +5,11 @@
     --light: #F5F5F5;
     --dark: #161616;
 }
+@media screen and (max-width: 330px) {
+    .logo{
+        font-size: 15px;
+    }
+}
 
 .fw-medium {
     font-weight: 500 !important;
