@@ -9,6 +9,14 @@
     .logo{
         font-size: 15px;
     }
+    .flex{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .col-6{
+        width: 100%;
+    }
 }
 
 .fw-medium {
